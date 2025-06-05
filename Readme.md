@@ -55,7 +55,7 @@ The website is fully responsive and optimized for:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/eventhub.git
+git clone https://github.com/DaniyalFaraz2003/dynamic-360-eventhub.git
 ```
 
 2. Navigate to the project directory.
