@@ -86,4 +86,4 @@ This project is created as part of a web development intern assessment. All righ
 
 ## 👥 Contact
 
-For any questions or feedback, please reach out through the contact form on the website or email: [daniyalfaraz2003@gmail.com]
+For any questions or feedback, please reach out through the email: [daniyalfaraz2003@gmail.com]
