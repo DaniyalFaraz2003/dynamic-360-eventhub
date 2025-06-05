@@ -4,7 +4,7 @@ A responsive, interactive single-page website for discovering local events. Buil
 
 ## 🚀 Live Preview
 
-[View Live Demo](https://your-live-preview-link.com](https://daniyalfaraz2003.github.io/dynamic-360-eventhub/)) <!-- Replace with your actual deployment link -->
+[View Live Demo](https://your-live-preview-link.com](https://daniyalfaraz2003.github.io/dynamic-360-eventhub/) <!-- Replace with your actual deployment link -->
 
 ## 🛠️ Technologies Used
 
